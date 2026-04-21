@@ -1,0 +1,11 @@
+[
+    {
+        "id": 5,
+        "produtor": "José",
+        "data": "02/01/2026",
+        "litros_produzidos": 80.0,
+        "litros_desperdicados": 10.0,
+        "percentual_desperdicio": 12.5,
+        "nivel": "Alto"
+    }
+]
